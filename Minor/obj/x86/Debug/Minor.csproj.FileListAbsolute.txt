@@ -1,0 +1,9 @@
+c:\users\scarecrow\documents\visual studio 2010\Projects\Minor\Minor\bin\Debug\Minor.exe
+c:\users\scarecrow\documents\visual studio 2010\Projects\Minor\Minor\bin\Debug\Minor.pdb
+c:\users\scarecrow\documents\visual studio 2010\Projects\Minor\Minor\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\scarecrow\documents\visual studio 2010\Projects\Minor\Minor\obj\x86\Debug\Minor.Form1.resources
+c:\users\scarecrow\documents\visual studio 2010\Projects\Minor\Minor\obj\x86\Debug\Minor.Properties.Resources.resources
+c:\users\scarecrow\documents\visual studio 2010\Projects\Minor\Minor\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\scarecrow\documents\visual studio 2010\Projects\Minor\Minor\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\scarecrow\documents\visual studio 2010\Projects\Minor\Minor\obj\x86\Debug\Minor.exe
+c:\users\scarecrow\documents\visual studio 2010\Projects\Minor\Minor\obj\x86\Debug\Minor.pdb
